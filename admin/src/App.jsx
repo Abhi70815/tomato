@@ -10,7 +10,7 @@ import "react-toastify/dist/ReactToastify.css";
 import Login from "./components/Login/Login";
 
 const App = () => {
-  const url = "https://tomato-gxe4.onrender.com/";
+  const url = "https://tomato-gxe4.onrender.com";
   return (
     <div>
       <ToastContainer />
